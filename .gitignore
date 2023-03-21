@@ -1,0 +1,56 @@
+# FastText
+*.bin
+*.vec
+*.zip
+
+# Untitled files
+*Untitled*
+
+# Python version
+.python-version
+
+# Data
+data
+*.csv
+*.json
+*.t
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Logs and runtime data
+logs/
+*.log
+
+# Data, models and artifacts
+data/
+models/
+artifacts/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+pythonenv*
+
+# Editor and IDE files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.pydevproject
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
